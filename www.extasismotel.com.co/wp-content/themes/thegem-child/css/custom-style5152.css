@@ -1,0 +1,16 @@
+.formulario-contacto p.cf-style2-text{
+  width: 100%;
+}
+.formulario-contacto input[type="submit"]{
+  background: #fe0300;
+}
+.title-main-banner .tp-mask-wrap{
+  border: 3px solid white;
+}
+.title-main-banner .tp-mask-wrap .tp-caption{
+  text-align: center !important;
+}
+#tips-home-container .gem-news-item-date,
+#tips-home-container .gem-news-zilla-likes{
+	display: none;
+}
